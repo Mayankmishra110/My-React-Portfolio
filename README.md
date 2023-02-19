@@ -29,7 +29,12 @@ https://mayankcseportfolio.netlify.app/
 
 ![Screenshot (210)](https://user-images.githubusercontent.com/96439214/219946758-c608d8b2-15c1-4828-947c-496bcf8ea783.png)
 
-[Screenshot (211)](https://user-images.githubusercontent.com/96439214/219946633-f3547557-795e-4df7-99f0-4ce1bc853be3.png)
+
+![Screenshot (211)](https://user-images.githubusercontent.com/96439214/219946791-0206be19-3b77-4ba9-a946-7f271dcdd4c9.png)
+
+
+
+
 
 
 
