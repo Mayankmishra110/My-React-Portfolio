@@ -24,7 +24,7 @@ const Portfolio = () => {
         className="portfolio-slider"
       >
         <SwiperSlide>
-          <img src={Mern2} alt="https://github.com/Mayankmishra110/Netflix-GPT" />
+          <img src={Mern2} alt="https://netflix-gpt-major-project.netlify.app/" />
         </SwiperSlide>
         <SwiperSlide>
           <img src={Ecommerce} alt="https://github.com/Mayankmishra110/My-React-Portfolio" />
