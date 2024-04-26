@@ -24,16 +24,16 @@ const Portfolio = () => {
         className="portfolio-slider"
       >
         <SwiperSlide>
-          <img src={Mern2} alt="https://netflix-gpt-major-project.netlify.app/" />
+          <img src={Mern2} alt="https://medium-silk.vercel.app/" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={Ecommerce} alt="https://github.com/Mayankmishra110/My-React-Portfolio" />
+          <img src={Ecommerce} alt="https://github.com/Mayankmishra110/InSeat-Cinema" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={Java} alt="https://github.com/Mayankmishra110/Book-My-Show" />
+          <img src={Java} alt="https://github.com/Mayankmishra110/SpringStack-Library" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={Mern2} alt="https://github.com/Mayankmishra110/My-React-Portfolio" />
+          <img src={Mern2} alt="https://medium-silk.vercel.app/" />
         </SwiperSlide>
       </Swiper>
     </div>
